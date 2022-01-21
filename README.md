@@ -1,0 +1,2 @@
+# solidityLearning
+learning solidity note
